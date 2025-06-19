@@ -42,5 +42,4 @@ This repository contains two Machine Learning projects completed as part of my i
 
 ---
 
-## 📁 Folder Structure
 
