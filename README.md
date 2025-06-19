@@ -22,8 +22,6 @@ This repository contains two Machine Learning projects completed as part of my i
 - Built multiple regression models and compared performance
 - Achieved high R² score with Random Forest model
 
-🔗 **Notebook**: [`House_Price_Prediction.ipynb`](./House_Price_Prediction/House_Price_Prediction.ipynb)
-
 ---
 
 ### 2️⃣ Mall Customer Segmentation 🛍️
@@ -41,8 +39,6 @@ This repository contains two Machine Learning projects completed as part of my i
 - Segmented customers into distinct behavioral groups
 - Used visual plots to interpret clustering output
 - Helped derive business insights from customer patterns
-
-🔗 **Notebook**: [`Mall_Customer_Segmentation.ipynb`](./Mall_Customer/Mall_Customer_Segmentation.ipynb)
 
 ---
 
